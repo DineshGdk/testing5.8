@@ -1,1 +1,0 @@
-java -cp "D:\New folder\jenkins\bin;D:\New folder\jenkins\lib\*;" org.testng.TestNG testng.xml
